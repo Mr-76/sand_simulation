@@ -1,0 +1,7 @@
+https://tkdocs.com/tutorial/firstexample.html
+
+https://www.geeksforgeeks.org/python-tkinter-moving-objects-using-canvas-move-method/
+
+https://tkdocs.com/tutorial/eventloop.html
+https://tkinterexamples.com/events/mouse/
+https://tkdocs.com/shipman/key-names.html
