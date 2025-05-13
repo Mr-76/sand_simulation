@@ -1,0 +1,18 @@
+     y
+     ↓
+x → ┌───────────────────────────────▶
+    │
+    │   (x1, y1)               (x2, y1)
+    │      ┌────────────────────┐
+    │      │                    │
+    │      │      Square        │
+    │      │                    │
+    │      └────────────────────┘
+    │   (x1, y2)               (x2, y2)
+    │
+
+Bunch of links i used
+https://medium.com/@morevinyl/tkinter-collision-detection-on-canvas-made-simple-320ae6cc58e1
+https://www.reddit.com/r/learnpython/comments/uqb975/optimizing_checking_for_touching_objects_in/
+https://stackoverflow.com/questions/21662109/how-to-find-is-a-canvas-item-is-touching-another-canvas-item-tkinter
+https://tkdocs.com/shipman/canvas-methods.html
